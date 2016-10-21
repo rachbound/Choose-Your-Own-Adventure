@@ -7,7 +7,7 @@ body {
 	font-variant: normal;
 	font-weight: bold;
 	line-height: 24.2px;
-    background-color: #dbb1ef;
+    background-color: #97c3ef;
 }
 
 li {
@@ -15,7 +15,7 @@ li {
 }
 
 a, a:visited {
-    color: blueviolet;
+    color: royalblue;
 }
 
 .icon {

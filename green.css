@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    font-size: 3em;
+    font-family: Helvetica;
+	font-size: 22px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	line-height: 24.2px;
+    background-color: #dbb1ef;
+}
+
+li {
+    text-align: left;
+}
+
+a, a:visited {
+    color: blueviolet;
+}
+
+.icon {
+    width: 128px;
+    height: 128px;
+    margin: 2px;
+    display: inline-block;
+    background-repeat: no-repeat;
+}
