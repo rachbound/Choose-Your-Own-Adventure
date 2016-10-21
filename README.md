@@ -1,4 +1,6 @@
 # Choose-Your-Own-Adventure
 my first website game :)
-
-[Choose your adventure!](https://github.com/rachelxtrieu/Choose-Your-Own-Adventure/blob/master/index.html)
+1. Download in ZIP
+2. Extract
+3. Open index.html
+4. Enjoy!
